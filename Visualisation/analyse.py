@@ -9,7 +9,7 @@ from email.mime.text import MIMEText
 smtp_server = 'smtp.gmail.com'  
 smtp_port = 587  
 smtp_username = 'nikolla.vujovic@gmail.com'  
-smtp_password = 'slrvywtypnlduujd' 
+smtp_password = '*************' 
 
 # Funkcija za slanje e-pošte
 def send_email(subject, body):
